@@ -16,7 +16,7 @@ public class Work_1 {
         paper = paper + 4;
         System.out.println(paper);
 
-        System.out.println("Задача 3.");
+        System.out.println("Задача 3");
         var newDog = dog - 3.5;
         System.out.println(newDog);
         var newCat = cat - 1.6;
