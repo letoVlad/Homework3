@@ -12,7 +12,7 @@ public class Work_3 {
         weightDifference = boxerTwoWeight % boxerOneWeight;
         System.out.println(weightDifference);
 
-        System.out.println("Задача 7.");
+        System.out.println("Задача 7");
         var hour = 640;
         var workHours = 8;
         var employee = hour / workHours;
